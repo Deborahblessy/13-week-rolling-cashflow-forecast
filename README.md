@@ -2,7 +2,8 @@
 # Meridian Fabrication Co. - 13 Week Rolling Cash Flow Forecast
 
 A formula-driven Excel model that forecasts weekly cash for a mid-size manufacturer, tests it against a minimum-cash loan covenant, stress-tests it with Best / Base / Worst scenarios, and measures how accurate earlier forecasts were.
-Dashboard
+
+### Dashboard
 
 <img width="575" height="429" alt="image" src="https://github.com/user-attachments/assets/0af56ea5-b61c-44e2-85e2-2ec147fdf748" />
 
